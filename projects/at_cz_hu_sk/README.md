@@ -29,4 +29,7 @@ pelias compose up
 
 You can now make queries against your new Pelias build:
 
-<http://localhost:4000/v1/search?text=Heldenplatz>
+<http://localhost:4000/v1/search?text=Wien>  
+<http://localhost:4000/v1/search?text=Prague>  
+<http://localhost:4000/v1/search?text=Budapest>  
+<http://localhost:4000/v1/search?text=Bratislava>
